@@ -11,7 +11,7 @@ The following are the primary learning objectives:
 3. Write effective machine learning workflows by using Python
 4. Mastery of different Pythons modules such as: Pandas, scikit-learn, seaborn, Numpy, Matplotlib
 
-## Prequisites
+## Prerequisites
 I highly recommend you to take a look at the following repos and MOOCS:
 
 ## Session 0 - Motivation
