@@ -23,8 +23,9 @@ Let's start with some interesting readings:
 4.  [How is the accountancy and finance world using artificial intelligence?](https://bit.ly/3nWvtnb) by Eleanor O'Neil, 2019
 5.  [Strategic leadership for the digital economy](https://bit.ly/3tuDHnQ) by Meredith Somers, MIT Sloan 2021
 
-## Session 1 - An Overview about ML Algorithm Using Scikit-Learn
+## Session 1 - An Interactive Overview about ML Algorithm Using Scikit-Learn
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/skacem/Learning-Machine-Learning/main?filepath=MLOverview.ipynb)
 
 Broadly speaking, the application of a machine learning algorithm will be one of four different categories:
 
