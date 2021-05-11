@@ -1,6 +1,5 @@
 # Learning ML and AI
-
-(Work in progress)
+(Work in progress. Inspired by Robert J. Brunner from the University of Illinois)
 
 ## Repo Description
 
@@ -14,7 +13,7 @@ The following are the primary learning objectives:
 4. Know your key performance indicators
 
 ## Prerequisites
-I highly recommend you to take a look at the following repos and MOOCS:
+None
 
 ## Session 0 - Motivation
 Let's start with some interesting readings:
@@ -25,6 +24,7 @@ Let's start with some interesting readings:
 5.  [Strategic leadership for the digital economy](https://bit.ly/3tuDHnQ) by Meredith Somers, MIT Sloan 2021
 
 ## Session 1 - An Overview about ML Algorithm Using Scikit-Learn
+
 
 Broadly speaking, the application of a machine learning algorithm will be one of four different categories:
 
