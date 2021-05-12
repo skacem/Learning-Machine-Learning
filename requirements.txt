@@ -1,13 +1,31 @@
-ipywidgets @ file:///home/conda/feedstock_root/build_artifacts/ipywidgets_1609995587151/work
-matplotlib @ file:///Users/runner/miniforge3/conda-bld/matplotlib-suite_1620506027623/work
-matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1618935594181/work
-notebook @ file:///home/conda/feedstock_root/build_artifacts/notebook_1618415081862/work
-numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1616933188420/work
-pandas==1.2.4
-pandocfilters==1.4.2
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1608156231189/work
-scikit-learn @ file:///Users/runner/miniforge3/conda-bld/scikit-learn_1619628730062/work
-scipy @ file:///Users/runner/miniforge3/conda-bld/scipy_1619561978986/work
-seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-split_1611834504644/work
-statsmodels @ file:///Users/runner/miniforge3/conda-bld/statsmodels_1612273630071/work
-widgetsnbextension @ file:///Users/runner/miniforge3/conda-bld/widgetsnbextension_1605475534277/work
+ipywidgets=7.6.3
+json5=0.9.5
+jsonschema=3.2.0
+jupyter-packaging=0.10.1
+jupyter_client=6.1.12
+jupyter_core=4.7.1
+jupyter_server=1.6.4
+jupyterlab=3.0.14
+jupyterlab_server=2.5.0
+matplotlib-base=3.4.2
+matplotlib-inline=0.1.2
+notebook=6.3.0
+numpy=1.20.2
+openssl=1.1.1k
+pandas=1.2.4
+pandoc=2.13
+pip=21.1.1
+python=3.9.2
+requests=2.25.1
+s3transfer=0.4.2
+scikit-learn=0.24.2
+scipy=1.6.3
+seaborn=0.11.1
+seaborn-base=0.11.1
+send2trash=1.5.0=py_0
+setuptools=49.6.0
+statsmodels=0.12.2
+voila=0.2.10
+watchdog=2.1.
+webencodings=0.5.1=
+widgetsnbextension=3.5.1
