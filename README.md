@@ -25,7 +25,7 @@ Let's start with some interesting readings:
 
 ## Session 1 - An Interactive Overview about ML Algorithm Using Scikit-Learn
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/skacem/Learning-Machine-Learning/main?filepath=MLOverview.ipynb) \t\t  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/skacem/Learning-Machine-Learning/blob/main/MLOverview.ipynb) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/skacem/Learning-Machine-Learning/main?filepath=MLOverview.ipynb)       [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/skacem/Learning-Machine-Learning/blob/main/MLOverview.ipynb) 
 
 Broadly speaking, the application of a machine learning algorithm will be one of four different categories:
 
