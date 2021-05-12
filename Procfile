@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True MLOverview.ipynb
+web: voila --port=$PORT --no-browser MLOverview.ipynb
