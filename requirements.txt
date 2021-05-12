@@ -4,6 +4,6 @@ pandas
 scikit-learn
 scipy
 seaborn
+voila
 statsmodels
 requests
-
