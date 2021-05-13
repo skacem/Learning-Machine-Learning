@@ -1,5 +1,16 @@
 matplotlib
 numpy
+json5
+jsonschema
+jupyter-packaging
+jupyter_client
+jupyter_core
+jupyter_server
+jupyterlab
+jupyterlab_pygments
+jupyterlab_server
+jupyterlab_widgets
+kiwisolver
 pandas
 scikit-learn
 scipy
@@ -7,3 +18,4 @@ seaborn
 voila
 statsmodels
 requests
+setuptools
