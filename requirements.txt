@@ -19,7 +19,6 @@ scikit-learn
 scipy
 seaborn
 voila
-statsmodels
 widgetsnbextension
 watchdog
 notebook
@@ -29,3 +28,4 @@ jmespath
 requests
 setuptools
 ipywidgets
+matplotlib-inline
