@@ -20,6 +20,13 @@ scipy
 seaborn
 voila
 statsmodels
+widgetsnbextension
+watchdog
+notebook
+jedi
+jinja2
+jmespath
+jpeg
 requests
 setuptools
 ipywidgets
