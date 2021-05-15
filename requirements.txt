@@ -1,10 +1,5 @@
-ipykernel
-ipython
-ipython_genutils
 matplotlib
 numpy
-json5
-jsonschema
 jupyter-packaging
 jupyter_client
 jupyter_core
@@ -22,10 +17,5 @@ voila
 widgetsnbextension
 watchdog
 notebook
-jedi
-jinja2
-jmespath
-requests
-setuptools
 ipywidgets
 matplotlib-inline
