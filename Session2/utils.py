@@ -7,7 +7,10 @@ import matplotlib.pyplot as plt
 
 
 
-def make_lr_plot(ind_train, dep_train, ind_test, dep_test, results, labels=['Control Variable', 'Response']):
+def make_lr_plot(ind_train, dep_train, ind_test, dep_test, results, 
+                 xlim=(-2, 52),
+                 ylim=(-1, 10),
+                 labels=['Control Variable', 'Response']):
     """
     Plotting function to show both regression fit to the data and the residual plot
     """
@@ -36,8 +39,8 @@ def make_lr_plot(ind_train, dep_train, ind_test, dep_test, results, labels=['Con
     axs[0].set_xlabel(labels[0], fontsize=14)
     axs[0].set_ylabel(labels[1], fontsize=14)
     axs[0].set_title("Regression Plot", fontsize=18)
-    axs[0].set_xlim(-2, 52)
-    axs[0].set_ylim(-1, 10)
+    axs[0].set_xlim(xlim)
+    axs[0].set_ylim(ylim)
     axs[0].legend()    
     sns.despine(ax=axs[0], trim=True)
     
@@ -46,11 +49,11 @@ def make_lr_plot(ind_train, dep_train, ind_test, dep_test, results, labels=['Con
                alpha = .5, cmap=cm.coolwarm)
 
     # Show zero residual line
-    axs[1].hlines(0, 0, 50, color='r', linestyle='--', alpha=0.25)
+    axs[1].hlines(0, 0, xlim[1]*.98, color='r', linestyle='--', alpha=0.25)
 
     # Decorate final plot
     axs[1].set_xlabel(labels[0], fontsize=14)
     axs[1].set_ylabel("Residual", fontsize=14)
     axs[1].set_title("Regression Plot (model residuals)", fontsize=18)
-    axs[1].set_ylim(-5, 5)
+    axs[1].set_ylim(-ylim[1]/2, ylim[1]/2)
     sns.despine(ax=axs[1], trim=True)
