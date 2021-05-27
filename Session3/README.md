@@ -1,6 +1,4 @@
-# k-Nearest Neighbor (k-nn)
-
-## Introduction
+#  Session 3 - Introduction to k-Nearest Neighbor (k-nn)
 
 k-nn is one of the simplest machine learning algorithms, that is used to perform both classification and regression. It is different than most other algorithms in several ways:
 * First the algorithm is a lazy learner in that no model is constructed. The predictions are made straight from the training data. Thus, the fit method doesn't build a model, it instead builds an efficient representation of the training data.

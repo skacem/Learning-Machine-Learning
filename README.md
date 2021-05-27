@@ -1,5 +1,5 @@
 # Learning ML and AI
-(Work in progress. Inspired by Robert J. Brunner from the University of Illinois)
+Work in progress.
 
 ## Repo Description
 
@@ -14,3 +14,8 @@ The following are the primary learning objectives:
 
 ## Prerequisites
 None
+
+## References
+
+1. Data Analytics Foundations for Accountancy II taught by Robert J. Brunner
+2. Python Data Science Handbook by Jake VanderPlas
