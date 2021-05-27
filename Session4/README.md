@@ -1,0 +1,5 @@
+#  Session 4 - Introduction to Logistic Regression
+
+Contrary to what its name suggests, logistic regression is a classification problem. In fact, when it comes to solving classification problems, logistic regression should be the first supervised learning type algorithm that we think of. In my opinion, everyone who is into machine learning should have acquired a strong foundation of Logistic Regression and the theory behinds it. Aside from being fundamental, powerful, and easy to implement, logistic regressions basic theoretical concepts are integral to understanding deep learning.
+
+In this notebook, we introduce logistic regression, and specifically show how logistic regression can be performed by using estimators from the scikit-learn library. We also introduce several popular performance metrics and show how they can be calculated for binary classification tasks. 
