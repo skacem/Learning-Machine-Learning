@@ -19,3 +19,5 @@ None
 
 1. Data Analytics Foundations for Accountancy II taught by Robert J. Brunner
 2. Python Data Science Handbook by Jake VanderPlas
+3. Andrew Ng (Coursera and Stanford)
+4. Machine Learning Pocket Reference by Matt Harrison
